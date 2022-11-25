@@ -4,3 +4,5 @@
 2. `npm install cypress`
 3. Create `.gitignore` file
 4. To launch cypress first time `npx cypress open`
+5. text goes here
+6. 
