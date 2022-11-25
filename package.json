@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AleksGeste/cy-intermediate-default/issues"
   },
-  "homepage": "https://github.com/AleksGeste/cy-intermediate-default#readme"
+  "homepage": "https://github.com/AleksGeste/cy-intermediate-default#readme",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
 }
